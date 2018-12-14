@@ -3,8 +3,6 @@ Dylan Sprague
 200368636
  */
 
-import java.util.Date;
-
 public class Car implements Comparable<Car>{
     private int year, kilometer;
     private String brand, model;
@@ -23,7 +21,7 @@ public class Car implements Comparable<Car>{
     }
 
     public void setYear(int year) {
-        if (year > 1902 && year < 2019){
+        if (year >= 1902 && year <= 2019){
             this.year = year;
         }else{
             throw new IllegalArgumentException("The year must be between 1902 - 2019");

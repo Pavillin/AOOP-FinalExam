@@ -2,8 +2,13 @@ import java.util.ArrayList;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
+/*
+Dylan Sprague
+200368636
+ */
+
 public class CarLot {
-    private TreeMap<String, TreeSet<Car>> menu = CarLoader.loadCars();
+    private TreeMap<String, TreeSet<Car>> menu = new TreeMap<>();
 
     public CarLot(TreeMap<String, TreeSet<Car>> menu) {
         this.menu = menu;

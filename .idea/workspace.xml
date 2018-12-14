@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cac082a8-d52e-4705-887d-bc81d4ef4603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,16 +12,58 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="85" column="13" lean-forward="true" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#1129#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#976#977#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-117" />
-    <option name="y" value="-21" />
-    <option name="width" value="1938" />
-    <option name="height" value="1056" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Car.java" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="2279" />
+    <option name="height" value="1481" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -50,8 +92,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544807718112" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Week8" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544809293317" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Week11/Assignment2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
@@ -78,27 +120,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544806478623</updated>
-      <workItem from="1544806483035" duration="1127000" />
+      <workItem from="1544806483035" duration="2716000" />
     </task>
+    <task id="LOCAL-00001" summary="added base files">
+      <created>1544807936025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544807936025</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1127000" />
+    <option name="totallyTimeSpent" value="2716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="987" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24948595" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24948595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32936978" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32936978" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -120,5 +171,31 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added base files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added base files" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="85" column="13" lean-forward="true" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1129#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
